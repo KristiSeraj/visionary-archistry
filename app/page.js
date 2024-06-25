@@ -1,7 +1,7 @@
 import About from "@/components/Home/About";
 import Hero from "@/components/Home/Hero";
 import Services from "@/components/Home/Services/ServicesSection";
-import Testimonials from "@/components/Home/Testimonials";
+import Testimonials from "@/components/Home/Testimonials/Testimonials";
 import Navbar from "@/components/Navbar";
 
 export default function Home() {

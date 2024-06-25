@@ -1,4 +1,5 @@
 import React from 'react';
+import TestimonialsSlider from './TestimonialSlider';
 
 const Testimonials = () => {
     return (
@@ -6,7 +7,7 @@ const Testimonials = () => {
             <div className="container mx-auto px-4">
                 <h2 className="text-3xl font-bold text-center">Testimonials</h2>
                 <div className="mt-8 space-y-8">
-                    {/* <TestimonialsList /> */}
+                    <TestimonialsSlider />
                 </div>
             </div>
         </section>
