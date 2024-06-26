@@ -16,7 +16,7 @@ const About = () => {
                 <div className="sm:w-1/2 p-5">
                     <div className="text">
                         <span className="text-gray-500 border-b-2 border-[#1D1D1D] uppercase">About us</span>
-                        <h2 className="my-4 font-bold text-3xl  sm:text-4xl ">About <span className="text-[#818181]">Our Company</span></h2>
+                        <h2 className="my-4 font-bold text-3xl  sm:text-4xl ">About <span className="text-primary">Our Company</span></h2>
                         <p className="text-gray-700">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, commodi
                             doloremque, fugiat illum magni minus nisi nulla numquam obcaecati placeat quia, repellat tempore
