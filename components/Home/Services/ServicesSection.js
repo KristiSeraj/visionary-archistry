@@ -7,7 +7,7 @@ const ServicesSection = () => {
             <div className="container mx-auto px-4">
                 <h2 className="text-3xl font-bold text-center">Our Services</h2>
             </div>
-            <div className="box-border px-4 lg:mx-20 border-solid sm:px-6 md:px-6 lg:px-0 max-w-7xl">
+            <div className="box-border px-4 lg:mx-6 border-solid sm:px-6 md:px-6 lg:px-0 max-w-7xl">
                 <ServicesList />
             </div>
         </section>
